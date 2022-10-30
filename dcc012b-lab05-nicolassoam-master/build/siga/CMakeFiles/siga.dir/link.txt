@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsiga.a CMakeFiles/siga.dir/src/estudante.cc.o CMakeFiles/siga.dir/src/hash.cc.o CMakeFiles/siga.dir/src/metrics.cc.o CMakeFiles/siga.dir/src/siga.cc.o
+/usr/bin/ranlib libsiga.a

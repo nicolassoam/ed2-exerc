@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_hash.dir/teste_hash.cc.o -o test_hash  ../siga/libsiga.a 
